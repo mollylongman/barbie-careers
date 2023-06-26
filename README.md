@@ -12,7 +12,7 @@ Then I put it all in datawrapper, which was fun to play with. I was able to make
 
 I really did learn a lot during this project. I got to try out my new Pandas skills, and learn to use Datawrapper for the first time. I also set my first life project up on Github and experimented with html. There’s still a lot I’d like to do to beautify it through tools like Bulma, but I didn’t have time to get that far. Next time. 
 
-Things I’d do differently next time: 
+<h2>Things I’d do differently next time: </h2>
 
 In my second bar chart, I’m beginning to think I should have done the same kind of bar chart as I did the first time, as it was easier to see the numbers, but I wanted to mix it up and the stripes were pretty. 
  Meanwhile, I was hoping to do a lot more with the data. Like, I thought it’d be cool to figure out the median salary for all the jobs she’s done over the years and figure out how rich she’d be.
@@ -23,6 +23,6 @@ So more charts like that could be cool! Maybe pie charts on “types” of jobs�
 
 And then a career total $ section absolutely would have been sick. Maybe that could have been a line chart? 
 
-Some skills I’d have liked to have done: 
+<h2>Some skills I’d have liked to have done: </h2>
 
 I tried briefly to “steal” a website design and use bulma and other html tools, but it was taking a long time and not really working that well for me, so I spent more time doing the data wrapper charts and analysis and description (and just figuring out how to set this live on GitHub, with assists from Soma and Gordon!). 
