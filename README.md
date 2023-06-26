@@ -23,6 +23,6 @@ So more charts like that could be cool! Maybe pie charts on “types” of jobs�
 
 And then a career total $ section absolutely would have been sick. Maybe that could have been a line chart? 
 
-<h2>Some skills I’d have liked to have done: </h2>
+<h2>Some skills I’d have liked to have practiced more: </h2>
 
 I tried briefly to “steal” a website design and use bulma and other html tools, but it was taking a long time and not really working that well for me, so I spent more time doing the data wrapper charts and analysis and description (and just figuring out how to set this live on GitHub, with assists from Soma and Gordon!). 
