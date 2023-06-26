@@ -1,5 +1,4 @@
 # mollylongman.github.io
-Barbie readme
 
 <h1>Barbie Careers Project</h1>
 
